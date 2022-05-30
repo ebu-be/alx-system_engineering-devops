@@ -1,0 +1,2 @@
+#!/bin/basb
+cut -c1 | paste -s |tr -d "[:blank:]"
